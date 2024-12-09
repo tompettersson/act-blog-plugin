@@ -94,6 +94,47 @@ A comprehensive blog system for Shopware 6 that allows you to create, manage and
   - `act_blog_category`
   - `act_blog_category_translation`
 
+## Relevant Shopware Documentation
+
+### Plugin Development
+- [Plugin Base Guide](https://developer.shopware.com/docs/guides/plugins/plugins/plugin-base-guide)
+- [Plugin Fundamentals](https://developer.shopware.com/docs/guides/plugins/plugins/plugin-fundamentals)
+- [Dependency Injection](https://developer.shopware.com/docs/guides/plugins/plugins/dependency-injection)
+- [Plugin Configuration](https://developer.shopware.com/docs/guides/plugins/plugins/plugin-configuration)
+
+### Database / Entities
+- [Database Migrations](https://developer.shopware.com/docs/guides/plugins/plugins/database-migrations)
+- [Custom Entities](https://developer.shopware.com/docs/guides/plugins/plugins/database/add-custom-entity)
+- [Entity Extensions](https://developer.shopware.com/docs/guides/plugins/plugins/database/add-entity-extension)
+- [DAL (Data Abstraction Layer)](https://developer.shopware.com/docs/guides/plugins/plugins/framework/data-abstraction-layer)
+
+### Administration
+- [Admin API](https://developer.shopware.com/docs/guides/plugins/plugins/administration/add-api-service)
+- [Admin Modules](https://developer.shopware.com/docs/guides/plugins/plugins/administration/add-custom-module)
+- [Admin Components](https://developer.shopware.com/docs/guides/plugins/plugins/administration/add-custom-component)
+- [ACL (Access Control)](https://developer.shopware.com/docs/guides/plugins/plugins/administration/add-acl-rules)
+
+### Storefront
+- [Storefront Controllers](https://developer.shopware.com/docs/guides/plugins/plugins/storefront/add-controller)
+- [Storefront Templates](https://developer.shopware.com/docs/guides/plugins/plugins/storefront/add-template)
+- [Storefront Styles](https://developer.shopware.com/docs/guides/plugins/plugins/storefront/add-scss)
+- [Storefront JavaScript](https://developer.shopware.com/docs/guides/plugins/plugins/storefront/add-javascript)
+
+### API
+- [Store API](https://developer.shopware.com/docs/guides/plugins/plugins/framework/store-api)
+- [Custom API Routes](https://developer.shopware.com/docs/guides/plugins/plugins/framework/custom-api-route)
+- [SalesChannel API](https://developer.shopware.com/docs/guides/plugins/plugins/framework/store-api-route)
+
+### Testing
+- [PHPUnit Tests](https://developer.shopware.com/docs/guides/plugins/plugins/testing/php-unit)
+- [End-to-End Tests](https://developer.shopware.com/docs/guides/plugins/plugins/testing/end-to-end-tests)
+- [Jest Unit Tests](https://developer.shopware.com/docs/guides/plugins/plugins/testing/jest-admin)
+
+### Best Practices
+- [Coding Standards](https://developer.shopware.com/docs/guides/plugins/plugins/coding-standards)
+- [Extension SDK](https://developer.shopware.com/docs/guides/plugins/apps/app-base-guide)
+- [Performance](https://developer.shopware.com/docs/guides/hosting/performance-guide)
+
 ## Installation
 
 1. Clone this repository into custom/plugins/ActBlog
